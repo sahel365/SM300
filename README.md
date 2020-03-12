@@ -1,8 +1,6 @@
-# Dokumentation SM300
+# Dokumentation SM300 | Sahel Lahoo
 ## Aufgabe
-# das ist ein Titel
-
-## jetzt noch ein Untertitel
+Die Aufgabe ist, ein Vagrant File zu erstellen und dies mit **markdown** zu dokumentieren.
 
 das ist **fett**, das ist *kursiv* das ist ***fett und kursiv** und jetzt wider normal.
 
