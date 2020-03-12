@@ -11,12 +11,12 @@ Dererstellte Code sowie die gesamte Dokumentation wird versioniert auf GitHub hi
 * Nextcloud
 * Samba
 
+## Links
 [1]: https://bscw.tbz.ch/bscw/bscw.cgi/d31416536/M300_LB2_IaC.pdf "Bewertungskriterien"
 [2]: https://wiki.ubuntuusers.de/Serverdienste/ "Dienste"
-
-### Links
 [Bewertungskriterien][1] 
-[Dienste][2]
+[Dienste][2] 
+
 ---
 ```
 Codebereich
