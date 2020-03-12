@@ -1,7 +1,9 @@
 # Dokumentation SM300 | Sahel Lahoo
 ## Aufgabe
-Die Aufgabe ist, ein Vagrant File zu erstellen und dies mit **markdown** zu dokumentieren.
-Dabei ein Service oder Serverdienst wird von einem Server für einem Client bereitgestellt.
+Wir erstellen - auf Basis von **VirtualBox/Vagrant** - ein selbst gewähltes «Infrastructure as Code»
+Projekt, indem wir einen Service oder Serverdienst automatisieren.
+
+Dererstellte Code sowie die gesamte Dokumentation wird versioniert auf GitHub hinterlegt und der Lehrperson zugänglich gemacht.
 
 Vorgenommene Dienste
 
@@ -22,7 +24,6 @@ $ ls -l
 Code kann auch `so hervor gehoben` werden
 
 > Backquote
-
 
 [1]: http://sbb.ch "sbb"
 [2]: http://tbz.ch "Technischen Berufsschule Zürich"
