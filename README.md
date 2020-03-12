@@ -14,9 +14,17 @@ Dererstellte Code sowie die gesamte Dokumentation wird versioniert auf GitHub hi
 ## Links
 [1]: https://bscw.tbz.ch/bscw/bscw.cgi/d31416536/M300_LB2_IaC.pdf "Bewertungskriterien"
 [2]: https://wiki.ubuntuusers.de/Serverdienste/ "Dienste"
+[3]: https://github.com/mc-b/M300/tree/master/vagrant/web "Webserver"
+[4]: https://github.com/mc-b/M300/tree/master/vagrant "Vagrant"
+[5]: https://github.com/mc-b/M300/tree/master/20-Infrastruktur#-09---beispiele-f%C3%BCr-lb2 "Kapitel 20"
+
 [Bewertungskriterien][1] 
 
 [Dienste][2] 
+
+Ein einfachs Beispiel zum Anfangen mit einem [Webserver][3] und Port-Weiterleitung ist im Kapitel [Vagrant][4] vorhanden.
+Beispiele als Basis für einen Dienst zum automatisieren finden sie in den **Modulunterlagen zum Schluss von [Kapitel 20][5]**
+
 
 ---
 ## Code
