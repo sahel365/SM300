@@ -1,1 +1,2 @@
-# SM300
+# Dokumentation SM300
+## Aufgabe
