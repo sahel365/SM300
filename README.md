@@ -20,7 +20,13 @@ Dererstellte Code sowie die gesamte Dokumentation wird versioniert auf GitHub hi
 
 ---
 ```
-Codebereich
++--------------------+          
+! Web Server         !          
+! Host: web01        !          
+! IP: 172.16.17.11/24!
+! Port: 80           !          
+! Nat: 8080          !          
++--------------------+          
 
 
 ```
