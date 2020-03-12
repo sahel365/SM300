@@ -5,27 +5,20 @@ Projekt, indem wir einen Service oder Serverdienst automatisieren.
 
 Dererstellte Code sowie die gesamte Dokumentation wird versioniert auf GitHub hinterlegt und der Lehrperson zugänglich gemacht.
 
-Vorgenommene Dienste
+> Vorgenommene Dienste zum installieren
 
 * Einfacher Webserver
 * Nextcloud
 * Samba
 
+[1]: https://bscw.tbz.ch/bscw/bscw.cgi/d31416536/M300_LB2_IaC.pdf "Bewertungskriterien"
+
+### Links
+[Bewertungskriterien][1] 
+
 ---
----
----
+```
+Codebereich
+
 
 ```
-das ist jetz ein code
-$ ls -l
-
-```
-
-Code kann auch `so hervor gehoben` werden
-
-> Backquote
-
-[1]: http://sbb.ch "sbb"
-[2]: http://tbz.ch "Technischen Berufsschule Zürich"
-
-Die meisten Lernenden der [TBZ][2] kommen mit der [Bahn][2] zur Schule
