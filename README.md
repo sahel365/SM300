@@ -1,13 +1,16 @@
 # Dokumentation SM300 | Sahel Lahoo
 ## Aufgabe
 Die Aufgabe ist, ein Vagrant File zu erstellen und dies mit **markdown** zu dokumentieren.
+Dabei ein Service oder Serverdienst wird von einem Server für einem Client bereitgestellt.
 
-das ist **fett**, das ist *kursiv* das ist ***fett und kursiv** und jetzt wider normal.
+Vorgenommene Dienste
 
-* erstens
-* zweitens
-  * Einrücken
+* Einfacher Webserver
+* Nextcloud
+* Samba
 
+---
+---
 ---
 
 ```
