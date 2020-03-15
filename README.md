@@ -57,7 +57,8 @@ printable = no
 guest ok = yes
 
 ##Restultat Webserver:
-! [Webseite] (Webseite.jpg)
+
+![M300-Banner] (Webseite.jpg)
 ---
 ## Code
 ```
