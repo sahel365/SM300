@@ -29,23 +29,35 @@ Beispiele als Basis für einen Dienst zum automatisieren finden sie in den **Mod
 
 [global]
 workgroup = smb
+
 security = user
+
 map to guest = Bad Password
 
 [homes]
 comment = Home Directories
+
 browsable = no
+
 read only = no
+
 create mode = 0750
 
 [public]
 path = /media/storage/ 
+
 public = yes
+
 writable = yes
+
 comment = smb share
+
 printable = no
+
 guest ok = yes
 
+##Restultat Webserver:
+! [Webseite] (Webseite.jpg)
 ---
 ## Code
 ```
