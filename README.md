@@ -58,7 +58,7 @@ guest ok = yes
 
 ##Restultat Webserver:
 
-![Webseite] (Webseite.jpg)
+![Webseite] (Webseite.png)
 ---
 ## Code
 ```
