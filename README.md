@@ -58,7 +58,7 @@ guest ok = yes
 
 ##Restultat Webserver:
 
-![M300-Banner] (Webseite.jpg)
+![Webseite] (Webseite.jpg)
 ---
 ## Code
 ```
